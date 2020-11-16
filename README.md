@@ -1,4 +1,5 @@
-# Angular Project
+# Angular Project 
+(https://github.com/VitalJD/lesson-1-task-9/blob/main/angular-js-768x768.png)
 
 Этот проект был создан с помощью [Angular CLI] (https://github.com/angular/angular-cli) версии 10.2.0.
 
